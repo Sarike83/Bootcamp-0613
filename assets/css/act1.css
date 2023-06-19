@@ -1,0 +1,45 @@
+thead {
+    background-color: salmon;
+}
+
+table {
+    text-align: center;
+    border: 2px solid black;
+    width: 100%;
+}
+
+th {
+    font-weight: 900px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    color: white;
+}
+
+.row-1 {
+    background-color: orange;
+}
+
+.row-2 {
+    background-color: white;
+}
+
+td#email {
+    text-decoration: underline;
+    color: #0f16e3dd
+}
+
+td#address {
+    text-transform: uppercase;
+}
+
+img {
+    width: 40px;
+    height: 30px;
+}
+
+#img {
+    background-image: url('../images/dog.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
